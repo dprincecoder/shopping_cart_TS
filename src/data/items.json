@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Tv",
+    "price": 130.99,
+    "imgUrl": "https://mysterio.yahoo.com/api/res/1.2/EGa5mvTe1cAkKXVbQyA3fg--/ZHByPTI7dz02NzU7YXBwaWQ9ZW5nYWRnZXQ-/https://s.yimg.com/os/creatr-uploaded-images/2021-05/e5549830-bfbe-11eb-bd29-331b18490ec1.cf.webp"
+  },
+
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1000.9,
+    "imgUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Iphone 12 ",
+    "price": 799,
+    "imgUrl": "https://images.unsplash.com/photo-1611472173362-3f53dbd65d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=404&q=80"
+  },
+
+  {
+    "id": 4,
+    "name": "Nikon Camera",
+    "price": 1650,
+    "imgUrl": "https://images.unsplash.com/photo-1624913503273-5f9c4e980dba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+
+  {
+    "id": 5,
+    "name": "Shoes",
+    "price": 80,
+    "imgUrl": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+  },
+
+  {
+    "id": 6,
+    "name": "Car",
+    "price": 28000.99,
+    "imgUrl": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  }
+]
